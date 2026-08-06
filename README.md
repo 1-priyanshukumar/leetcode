@@ -1,12 +1,12 @@
-# 🚀 LeetCode Solutions (C++)
+# 🚀 LeetCode Solutions
 
 Welcome to my LeetCode Solutions repository!
 
 ## 👨‍💻 About
-This repository contains my C++ solutions to LeetCode problems. It serves as a record of my DSA practice and interview preparation.
+This repository contains my  solutions to LeetCode problems. It serves as a record of my DSA practice and interview preparation.
 
 ## 🛠️ Language
-- C++17
+- C++,java
 
 ## 📚 Topics Covered
 - Arrays
@@ -44,10 +44,10 @@ LeetCode/
 - Practice consistent coding
 
 ## 📈 Progress
-- Total Solved: XX+
-- Easy: XX
-- Medium: XX
-- Hard: XX
+- Total Solved: 
+- Easy:
+- Medium:
+- Hard: 
 
 ## ⭐ If you find this repository useful, don't forget to star it!
 
