@@ -59,10 +59,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0877-stone-game) |
+| [0048-rotate-image](https://github.com/1-priyanshukumar/leetcode/tree/master/0048-rotate-image) |
 ## Math
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0877-stone-game) |
+| [0048-rotate-image](https://github.com/1-priyanshukumar/leetcode/tree/master/0048-rotate-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,4 +81,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0877-stone-game) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/1-priyanshukumar/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
