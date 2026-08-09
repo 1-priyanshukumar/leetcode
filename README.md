@@ -60,6 +60,7 @@ Happy Coding! 🚀
 | ------- |
 | [0877-stone-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0877-stone-game) |
 | [0048-rotate-image](https://github.com/1-priyanshukumar/leetcode/tree/master/0048-rotate-image) |
+| [1436-destination-city](https://github.com/1-priyanshukumar/leetcode/tree/master/1436-destination-city) |
 ## Math
 |  |
 | ------- |
@@ -90,4 +91,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/1-priyanshukumar/leetcode/tree/master/0050-powx-n) |
+## Hash Table
+|  |
+| ------- |
+| [1436-destination-city](https://github.com/1-priyanshukumar/leetcode/tree/master/1436-destination-city) |
+## String
+|  |
+| ------- |
+| [1436-destination-city](https://github.com/1-priyanshukumar/leetcode/tree/master/1436-destination-city) |
 <!---LeetCode Topics End-->
