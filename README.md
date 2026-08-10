@@ -67,6 +67,7 @@ Happy Coding! 🚀
 | [0877-stone-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0877-stone-game) |
 | [0048-rotate-image](https://github.com/1-priyanshukumar/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/1-priyanshukumar/leetcode/tree/master/0050-powx-n) |
+| [0089-gray-code](https://github.com/1-priyanshukumar/leetcode/tree/master/0089-gray-code) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,4 +100,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1436-destination-city](https://github.com/1-priyanshukumar/leetcode/tree/master/1436-destination-city) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/1-priyanshukumar/leetcode/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/1-priyanshukumar/leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
