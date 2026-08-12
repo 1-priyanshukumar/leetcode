@@ -127,12 +127,23 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Linked List
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
