@@ -68,6 +68,7 @@ Happy Coding! 🚀
 | [0048-rotate-image](https://github.com/1-priyanshukumar/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/1-priyanshukumar/leetcode/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/1-priyanshukumar/leetcode/tree/master/0089-gray-code) |
+| [0067-add-binary](https://github.com/1-priyanshukumar/leetcode/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Happy Coding! 🚀
 | [1436-destination-city](https://github.com/1-priyanshukumar/leetcode/tree/master/1436-destination-city) |
 | [0072-edit-distance](https://github.com/1-priyanshukumar/leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/1-priyanshukumar/leetcode/tree/master/0097-interleaving-string) |
+| [0067-add-binary](https://github.com/1-priyanshukumar/leetcode/tree/master/0067-add-binary) |
 ## Backtracking
 |  |
 | ------- |
@@ -112,4 +114,9 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/1-priyanshukumar/leetcode/tree/master/0089-gray-code) |
+| [0067-add-binary](https://github.com/1-priyanshukumar/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/1-priyanshukumar/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
