@@ -61,6 +61,7 @@ Happy Coding! 🚀
 | [0877-stone-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0877-stone-game) |
 | [0048-rotate-image](https://github.com/1-priyanshukumar/leetcode/tree/master/0048-rotate-image) |
 | [1436-destination-city](https://github.com/1-priyanshukumar/leetcode/tree/master/1436-destination-city) |
+| [0085-maximal-rectangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0085-maximal-rectangle) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Happy Coding! 🚀
 | [0877-stone-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0877-stone-game) |
 | [0072-edit-distance](https://github.com/1-priyanshukumar/leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/1-priyanshukumar/leetcode/tree/master/0097-interleaving-string) |
+| [0085-maximal-rectangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0085-maximal-rectangle) |
 ## Minimax
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/1-priyanshukumar/leetcode/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0085-maximal-rectangle) |
 ## Recursion
 |  |
 | ------- |
@@ -123,6 +126,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0085-maximal-rectangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0085-maximal-rectangle) |
 ## Tree
 |  |
 | ------- |
@@ -146,4 +150,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
