@@ -134,16 +134,19 @@ Happy Coding! 🚀
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0100-same-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0100-same-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0100-same-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0100-same-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -152,6 +155,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0100-same-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0100-same-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
