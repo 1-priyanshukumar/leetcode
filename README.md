@@ -135,18 +135,21 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0100-same-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0100-same-tree) |
+| [0098-validate-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0100-same-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0100-same-tree) |
+| [0098-validate-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0100-same-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0100-same-tree) |
+| [0098-validate-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -160,4 +163,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0085-maximal-rectangle) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
