@@ -62,6 +62,7 @@ Happy Coding! 🚀
 | [0048-rotate-image](https://github.com/1-priyanshukumar/leetcode/tree/master/0048-rotate-image) |
 | [1436-destination-city](https://github.com/1-priyanshukumar/leetcode/tree/master/1436-destination-city) |
 | [0085-maximal-rectangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0085-maximal-rectangle) |
+| [1386-cinema-seat-allocation](https://github.com/1-priyanshukumar/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1436-destination-city](https://github.com/1-priyanshukumar/leetcode/tree/master/1436-destination-city) |
+| [1386-cinema-seat-allocation](https://github.com/1-priyanshukumar/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## String
 |  |
 | ------- |
@@ -120,6 +122,7 @@ Happy Coding! 🚀
 | ------- |
 | [0089-gray-code](https://github.com/1-priyanshukumar/leetcode/tree/master/0089-gray-code) |
 | [0067-add-binary](https://github.com/1-priyanshukumar/leetcode/tree/master/0067-add-binary) |
+| [1386-cinema-seat-allocation](https://github.com/1-priyanshukumar/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Simulation
 |  |
 | ------- |
@@ -167,4 +170,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/1-priyanshukumar/leetcode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
