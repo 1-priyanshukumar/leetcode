@@ -63,6 +63,7 @@ Happy Coding! 🚀
 | [1436-destination-city](https://github.com/1-priyanshukumar/leetcode/tree/master/1436-destination-city) |
 | [0085-maximal-rectangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0085-maximal-rectangle) |
 | [1386-cinema-seat-allocation](https://github.com/1-priyanshukumar/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [0120-triangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0120-triangle) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Happy Coding! 🚀
 | [0097-interleaving-string](https://github.com/1-priyanshukumar/leetcode/tree/master/0097-interleaving-string) |
 | [0085-maximal-rectangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/1-priyanshukumar/leetcode/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0120-triangle) |
 ## Minimax
 |  |
 | ------- |
