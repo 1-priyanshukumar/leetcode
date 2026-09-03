@@ -64,6 +64,7 @@ Happy Coding! 🚀
 | [0085-maximal-rectangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0085-maximal-rectangle) |
 | [1386-cinema-seat-allocation](https://github.com/1-priyanshukumar/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [0120-triangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0120-triangle) |
+| [3875-construct-uniform-parity-array-i](https://github.com/1-priyanshukumar/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Happy Coding! 🚀
 | [0050-powx-n](https://github.com/1-priyanshukumar/leetcode/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/1-priyanshukumar/leetcode/tree/master/0089-gray-code) |
 | [0067-add-binary](https://github.com/1-priyanshukumar/leetcode/tree/master/0067-add-binary) |
+| [3875-construct-uniform-parity-array-i](https://github.com/1-priyanshukumar/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
