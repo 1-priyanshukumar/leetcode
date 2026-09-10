@@ -66,6 +66,7 @@ Happy Coding! 🚀
 | [0120-triangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0120-triangle) |
 | [3875-construct-uniform-parity-array-i](https://github.com/1-priyanshukumar/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [0088-merge-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0088-merge-sorted-array) |
+| [0055-jump-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0055-jump-game) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Happy Coding! 🚀
 | [0085-maximal-rectangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/1-priyanshukumar/leetcode/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0120-triangle) |
+| [0055-jump-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0055-jump-game) |
 ## Minimax
 |  |
 | ------- |
@@ -188,6 +190,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/1-priyanshukumar/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [0055-jump-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0055-jump-game) |
 ## Divide and Conquer
 |  |
 | ------- |
