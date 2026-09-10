@@ -65,6 +65,7 @@ Happy Coding! 🚀
 | [1386-cinema-seat-allocation](https://github.com/1-priyanshukumar/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [0120-triangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0120-triangle) |
 | [3875-construct-uniform-parity-array-i](https://github.com/1-priyanshukumar/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [0088-merge-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -191,4 +192,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
