@@ -67,6 +67,7 @@ Happy Coding! 🚀
 | [3875-construct-uniform-parity-array-i](https://github.com/1-priyanshukumar/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [0088-merge-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0055-jump-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0055-jump-game) |
+| [0835-image-overlap](https://github.com/1-priyanshukumar/leetcode/tree/master/0835-image-overlap) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Happy Coding! 🚀
 | ------- |
 | [0048-rotate-image](https://github.com/1-priyanshukumar/leetcode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/1-priyanshukumar/leetcode/tree/master/0835-image-overlap) |
 ## Recursion
 |  |
 | ------- |
