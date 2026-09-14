@@ -68,6 +68,7 @@ Happy Coding! 🚀
 | [0088-merge-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0055-jump-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0055-jump-game) |
 | [0835-image-overlap](https://github.com/1-priyanshukumar/leetcode/tree/master/0835-image-overlap) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Happy Coding! 🚀
 | ------- |
 | [1436-destination-city](https://github.com/1-priyanshukumar/leetcode/tree/master/1436-destination-city) |
 | [1386-cinema-seat-allocation](https://github.com/1-priyanshukumar/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Happy Coding! 🚀
 | [0102-binary-tree-level-order-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/1-priyanshukumar/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -172,6 +175,7 @@ Happy Coding! 🚀
 | [0102-binary-tree-level-order-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/1-priyanshukumar/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -201,6 +205,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
