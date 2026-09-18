@@ -159,6 +159,7 @@ Happy Coding! 🚀
 | [0129-sum-root-to-leaf-numbers](https://github.com/1-priyanshukumar/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0113-path-sum-ii) |
+| [0669-trim-a-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Happy Coding! 🚀
 | [0098-validate-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/1-priyanshukumar/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0113-path-sum-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0113-path-sum-ii) |
+| [0669-trim-a-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Happy Coding! 🚀
 | [0129-sum-root-to-leaf-numbers](https://github.com/1-priyanshukumar/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0113-path-sum-ii) |
+| [0669-trim-a-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -200,6 +203,7 @@ Happy Coding! 🚀
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
