@@ -160,6 +160,7 @@ Happy Coding! 🚀
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0113-path-sum-ii) |
 | [0669-trim-a-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/1-priyanshukumar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Happy Coding! 🚀
 | [0129-sum-root-to-leaf-numbers](https://github.com/1-priyanshukumar/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0113-path-sum-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0113-path-sum-ii) |
 | [0669-trim-a-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/1-priyanshukumar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -183,17 +185,20 @@ Happy Coding! 🚀
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0113-path-sum-ii) |
 | [0669-trim-a-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/1-priyanshukumar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Linked List
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/1-priyanshukumar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0100-same-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/1-priyanshukumar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Monotonic Stack
 |  |
 | ------- |
