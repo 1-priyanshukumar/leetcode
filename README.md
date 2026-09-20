@@ -69,6 +69,7 @@ Happy Coding! 🚀
 | [0055-jump-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0055-jump-game) |
 | [0835-image-overlap](https://github.com/1-priyanshukumar/leetcode/tree/master/0835-image-overlap) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0136-single-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0136-single-number) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Happy Coding! 🚀
 | [0089-gray-code](https://github.com/1-priyanshukumar/leetcode/tree/master/0089-gray-code) |
 | [0067-add-binary](https://github.com/1-priyanshukumar/leetcode/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/1-priyanshukumar/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [0136-single-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
