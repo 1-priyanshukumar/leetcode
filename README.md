@@ -114,6 +114,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/1-priyanshukumar/leetcode/tree/master/0050-powx-n) |
+| [0021-merge-two-sorted-lists](https://github.com/1-priyanshukumar/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Happy Coding! 🚀
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/1-priyanshukumar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0021-merge-two-sorted-lists](https://github.com/1-priyanshukumar/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Breadth-First Search
 |  |
 | ------- |
