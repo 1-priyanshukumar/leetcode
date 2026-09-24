@@ -71,6 +71,7 @@ Happy Coding! 🚀
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0136-single-number) |
 | [0011-container-with-most-water](https://github.com/1-priyanshukumar/leetcode/tree/master/0011-container-with-most-water) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/1-priyanshukumar/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Happy Coding! 🚀
 | [0009-palindrome-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0009-palindrome-number) |
 | [3871-count-commas-in-range-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [0836-rectangle-overlap](https://github.com/1-priyanshukumar/leetcode/tree/master/0836-rectangle-overlap) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/1-priyanshukumar/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
