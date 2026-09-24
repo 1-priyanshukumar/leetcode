@@ -70,6 +70,7 @@ Happy Coding! 🚀
 | [0835-image-overlap](https://github.com/1-priyanshukumar/leetcode/tree/master/0835-image-overlap) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0136-single-number) |
+| [0011-container-with-most-water](https://github.com/1-priyanshukumar/leetcode/tree/master/0011-container-with-most-water) |
 ## Math
 |  |
 | ------- |
@@ -222,6 +223,7 @@ Happy Coding! 🚀
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/1-priyanshukumar/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [0055-jump-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0055-jump-game) |
+| [0011-container-with-most-water](https://github.com/1-priyanshukumar/leetcode/tree/master/0011-container-with-most-water) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -231,6 +233,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0088-merge-sorted-array) |
+| [0011-container-with-most-water](https://github.com/1-priyanshukumar/leetcode/tree/master/0011-container-with-most-water) |
 ## Sorting
 |  |
 | ------- |
