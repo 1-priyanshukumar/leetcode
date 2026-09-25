@@ -72,6 +72,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0136-single-number) |
 | [0011-container-with-most-water](https://github.com/1-priyanshukumar/leetcode/tree/master/0011-container-with-most-water) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/1-priyanshukumar/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [0238-product-of-array-except-self](https://github.com/1-priyanshukumar/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Math
 |  |
 | ------- |
@@ -244,4 +245,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/1-priyanshukumar/leetcode/tree/master/0836-rectangle-overlap) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/1-priyanshukumar/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
