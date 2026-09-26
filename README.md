@@ -126,6 +126,7 @@ Happy Coding! 🚀
 | [1436-destination-city](https://github.com/1-priyanshukumar/leetcode/tree/master/1436-destination-city) |
 | [1386-cinema-seat-allocation](https://github.com/1-priyanshukumar/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/1-priyanshukumar/leetcode/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -204,6 +205,7 @@ Happy Coding! 🚀
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/1-priyanshukumar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0021-merge-two-sorted-lists](https://github.com/1-priyanshukumar/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/1-priyanshukumar/leetcode/tree/master/0141-linked-list-cycle) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -238,6 +240,7 @@ Happy Coding! 🚀
 | ------- |
 | [0088-merge-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0011-container-with-most-water](https://github.com/1-priyanshukumar/leetcode/tree/master/0011-container-with-most-water) |
+| [0141-linked-list-cycle](https://github.com/1-priyanshukumar/leetcode/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -270,4 +273,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/1-priyanshukumar/leetcode/tree/master/0239-sliding-window-maximum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/1-priyanshukumar/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
