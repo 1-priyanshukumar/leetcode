@@ -74,6 +74,7 @@ Happy Coding! 🚀
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/1-priyanshukumar/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [0238-product-of-array-except-self](https://github.com/1-priyanshukumar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/1-priyanshukumar/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0561-array-partition](https://github.com/1-priyanshukumar/leetcode/tree/master/0561-array-partition) |
 ## Math
 |  |
 | ------- |
@@ -230,6 +231,7 @@ Happy Coding! 🚀
 | [1386-cinema-seat-allocation](https://github.com/1-priyanshukumar/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [0055-jump-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0055-jump-game) |
 | [0011-container-with-most-water](https://github.com/1-priyanshukumar/leetcode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/1-priyanshukumar/leetcode/tree/master/0561-array-partition) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -245,6 +247,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/1-priyanshukumar/leetcode/tree/master/0561-array-partition) |
 ## Geometry
 |  |
 | ------- |
@@ -277,4 +280,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/1-priyanshukumar/leetcode/tree/master/0141-linked-list-cycle) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/1-priyanshukumar/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
