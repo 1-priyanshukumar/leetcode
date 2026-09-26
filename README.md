@@ -157,6 +157,7 @@ Happy Coding! 🚀
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0085-maximal-rectangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0085-maximal-rectangle) |
+| [0145-binary-tree-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Happy Coding! 🚀
 | [0669-trim-a-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/1-priyanshukumar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/1-priyanshukumar/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0145-binary-tree-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Happy Coding! 🚀
 | [0669-trim-a-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/1-priyanshukumar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/1-priyanshukumar/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0145-binary-tree-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -199,6 +202,7 @@ Happy Coding! 🚀
 | [0669-trim-a-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/1-priyanshukumar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/1-priyanshukumar/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0145-binary-tree-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Linked List
 |  |
 | ------- |
