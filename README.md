@@ -75,6 +75,7 @@ Happy Coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/1-priyanshukumar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/1-priyanshukumar/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0561-array-partition](https://github.com/1-priyanshukumar/leetcode/tree/master/0561-array-partition) |
+| [0033-search-in-rotated-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -229,6 +230,7 @@ Happy Coding! 🚀
 | [0098-validate-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0033-search-in-rotated-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Greedy
 |  |
 | ------- |
