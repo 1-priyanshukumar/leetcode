@@ -76,6 +76,7 @@ Happy Coding! 🚀
 | [0239-sliding-window-maximum](https://github.com/1-priyanshukumar/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0561-array-partition](https://github.com/1-priyanshukumar/leetcode/tree/master/0561-array-partition) |
 | [0033-search-in-rotated-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/1-priyanshukumar/leetcode/tree/master/0037-sudoku-solver) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Happy Coding! 🚀
 | [0048-rotate-image](https://github.com/1-priyanshukumar/leetcode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/1-priyanshukumar/leetcode/tree/master/0835-image-overlap) |
+| [0037-sudoku-solver](https://github.com/1-priyanshukumar/leetcode/tree/master/0037-sudoku-solver) |
 ## Recursion
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Happy Coding! 🚀
 | [1386-cinema-seat-allocation](https://github.com/1-priyanshukumar/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/1-priyanshukumar/leetcode/tree/master/0141-linked-list-cycle) |
+| [0037-sudoku-solver](https://github.com/1-priyanshukumar/leetcode/tree/master/0037-sudoku-solver) |
 ## String
 |  |
 | ------- |
@@ -142,6 +145,7 @@ Happy Coding! 🚀
 | ------- |
 | [0089-gray-code](https://github.com/1-priyanshukumar/leetcode/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0113-path-sum-ii) |
+| [0037-sudoku-solver](https://github.com/1-priyanshukumar/leetcode/tree/master/0037-sudoku-solver) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -290,4 +294,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/1-priyanshukumar/leetcode/tree/master/0561-array-partition) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/1-priyanshukumar/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/1-priyanshukumar/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
