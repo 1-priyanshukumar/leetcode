@@ -90,6 +90,7 @@ Happy Coding! 🚀
 | [3871-count-commas-in-range-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [0836-rectangle-overlap](https://github.com/1-priyanshukumar/leetcode/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/1-priyanshukumar/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [0202-happy-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Happy Coding! 🚀
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/1-priyanshukumar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0037-sudoku-solver](https://github.com/1-priyanshukumar/leetcode/tree/master/0037-sudoku-solver) |
+| [0202-happy-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -253,6 +255,7 @@ Happy Coding! 🚀
 | [0088-merge-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0011-container-with-most-water](https://github.com/1-priyanshukumar/leetcode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/1-priyanshukumar/leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -290,6 +293,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/1-priyanshukumar/leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0202-happy-number) |
 ## Counting Sort
 |  |
 | ------- |
