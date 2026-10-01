@@ -79,6 +79,7 @@ Happy Coding! 🚀
 | [0037-sudoku-solver](https://github.com/1-priyanshukumar/leetcode/tree/master/0037-sudoku-solver) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0874-walking-robot-simulation](https://github.com/1-priyanshukumar/leetcode/tree/master/0874-walking-robot-simulation) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +137,7 @@ Happy Coding! 🚀
 | [0141-linked-list-cycle](https://github.com/1-priyanshukumar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0037-sudoku-solver](https://github.com/1-priyanshukumar/leetcode/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0202-happy-number) |
+| [0874-walking-robot-simulation](https://github.com/1-priyanshukumar/leetcode/tree/master/0874-walking-robot-simulation) |
 ## String
 |  |
 | ------- |
@@ -162,6 +164,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/1-priyanshukumar/leetcode/tree/master/0067-add-binary) |
+| [0874-walking-robot-simulation](https://github.com/1-priyanshukumar/leetcode/tree/master/0874-walking-robot-simulation) |
 ## Stack
 |  |
 | ------- |
