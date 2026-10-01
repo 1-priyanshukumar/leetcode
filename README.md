@@ -188,6 +188,7 @@ Happy Coding! 🚀
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/1-priyanshukumar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/1-priyanshukumar/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0145-binary-tree-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0101-symmetric-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -201,6 +202,7 @@ Happy Coding! 🚀
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/1-priyanshukumar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/1-priyanshukumar/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0145-binary-tree-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0101-symmetric-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -217,6 +219,7 @@ Happy Coding! 🚀
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/1-priyanshukumar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/1-priyanshukumar/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0145-binary-tree-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0101-symmetric-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0101-symmetric-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -233,6 +236,7 @@ Happy Coding! 🚀
 | [0102-binary-tree-level-order-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/1-priyanshukumar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/1-priyanshukumar/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0101-symmetric-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0101-symmetric-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
