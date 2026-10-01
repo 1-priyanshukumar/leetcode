@@ -78,6 +78,7 @@ Happy Coding! 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/1-priyanshukumar/leetcode/tree/master/0037-sudoku-solver) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -240,6 +241,7 @@ Happy Coding! 🚀
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0033-search-in-rotated-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Greedy
 |  |
 | ------- |
