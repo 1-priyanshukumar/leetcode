@@ -142,6 +142,7 @@ Happy Coding! 🚀
 | [0097-interleaving-string](https://github.com/1-priyanshukumar/leetcode/tree/master/0097-interleaving-string) |
 | [0067-add-binary](https://github.com/1-priyanshukumar/leetcode/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/1-priyanshukumar/leetcode/tree/master/0091-decode-ways) |
+| [0020-valid-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0020-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -165,6 +166,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0085-maximal-rectangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0020-valid-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0020-valid-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -306,4 +308,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/1-priyanshukumar/leetcode/tree/master/0037-sudoku-solver) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
