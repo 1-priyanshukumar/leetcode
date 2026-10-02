@@ -104,6 +104,7 @@ Happy Coding! 🚀
 | [0091-decode-ways](https://github.com/1-priyanshukumar/leetcode/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0120-triangle) |
 | [0055-jump-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0055-jump-game) |
+| [0022-generate-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0022-generate-parentheses) |
 ## Minimax
 |  |
 | ------- |
@@ -147,12 +148,14 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/1-priyanshukumar/leetcode/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/1-priyanshukumar/leetcode/tree/master/0091-decode-ways) |
 | [0020-valid-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/1-priyanshukumar/leetcode/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0113-path-sum-ii) |
 | [0037-sudoku-solver](https://github.com/1-priyanshukumar/leetcode/tree/master/0037-sudoku-solver) |
+| [0022-generate-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -323,4 +326,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
