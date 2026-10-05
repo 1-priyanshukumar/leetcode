@@ -94,6 +94,7 @@ Happy Coding! 🚀
 | [0836-rectangle-overlap](https://github.com/1-priyanshukumar/leetcode/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/1-priyanshukumar/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [0202-happy-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0202-happy-number) |
+| [0171-excel-sheet-column-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Happy Coding! 🚀
 | [0091-decode-ways](https://github.com/1-priyanshukumar/leetcode/tree/master/0091-decode-ways) |
 | [0020-valid-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0022-generate-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Backtracking
 |  |
 | ------- |
