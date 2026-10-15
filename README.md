@@ -80,6 +80,7 @@ Happy Coding! 🚀
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0874-walking-robot-simulation](https://github.com/1-priyanshukumar/leetcode/tree/master/0874-walking-robot-simulation) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/1-priyanshukumar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Happy Coding! 🚀
 | [0037-sudoku-solver](https://github.com/1-priyanshukumar/leetcode/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0202-happy-number) |
 | [0874-walking-robot-simulation](https://github.com/1-priyanshukumar/leetcode/tree/master/0874-walking-robot-simulation) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/1-priyanshukumar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
 | ------- |
@@ -329,4 +331,12 @@ Happy Coding! 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0022-generate-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/1-priyanshukumar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/1-priyanshukumar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
