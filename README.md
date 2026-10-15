@@ -81,6 +81,7 @@ Happy Coding! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0874-walking-robot-simulation](https://github.com/1-priyanshukumar/leetcode/tree/master/0874-walking-robot-simulation) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/1-priyanshukumar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/1-priyanshukumar/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Math
 |  |
 | ------- |
@@ -339,4 +340,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/1-priyanshukumar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/1-priyanshukumar/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
