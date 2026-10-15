@@ -97,6 +97,7 @@ Happy Coding! 🚀
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/1-priyanshukumar/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [0202-happy-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0202-happy-number) |
 | [0171-excel-sheet-column-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/1-priyanshukumar/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +155,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0022-generate-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/1-priyanshukumar/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -264,6 +266,7 @@ Happy Coding! 🚀
 | [0055-jump-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0055-jump-game) |
 | [0011-container-with-most-water](https://github.com/1-priyanshukumar/leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/1-priyanshukumar/leetcode/tree/master/0561-array-partition) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/1-priyanshukumar/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
 |  |
 | ------- |
