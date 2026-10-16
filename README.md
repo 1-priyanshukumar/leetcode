@@ -82,6 +82,7 @@ Happy Coding! 🚀
 | [0874-walking-robot-simulation](https://github.com/1-priyanshukumar/leetcode/tree/master/0874-walking-robot-simulation) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/1-priyanshukumar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/1-priyanshukumar/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Happy Coding! 🚀
 | [0202-happy-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0202-happy-number) |
 | [0874-walking-robot-simulation](https://github.com/1-priyanshukumar/leetcode/tree/master/0874-walking-robot-simulation) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/1-priyanshukumar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
 |  |
 | ------- |
@@ -339,10 +341,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/1-priyanshukumar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/1-priyanshukumar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Enumeration
 |  |
 | ------- |
