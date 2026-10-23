@@ -84,6 +84,7 @@ Happy Coding! 🚀
 | [2778-sum-of-squares-of-special-elements](https://github.com/1-priyanshukumar/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [0463-island-perimeter](https://github.com/1-priyanshukumar/leetcode/tree/master/0463-island-perimeter) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/1-priyanshukumar/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Math
 |  |
 | ------- |
@@ -174,6 +175,7 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/1-priyanshukumar/leetcode/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/1-priyanshukumar/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [0136-single-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0136-single-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/1-priyanshukumar/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
