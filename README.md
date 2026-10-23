@@ -83,6 +83,7 @@ Happy Coding! 🚀
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/1-priyanshukumar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/1-priyanshukumar/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [0463-island-perimeter](https://github.com/1-priyanshukumar/leetcode/tree/master/0463-island-perimeter) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Happy Coding! 🚀
 | [0085-maximal-rectangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/1-priyanshukumar/leetcode/tree/master/0835-image-overlap) |
 | [0037-sudoku-solver](https://github.com/1-priyanshukumar/leetcode/tree/master/0037-sudoku-solver) |
+| [0463-island-perimeter](https://github.com/1-priyanshukumar/leetcode/tree/master/0463-island-perimeter) |
 ## Recursion
 |  |
 | ------- |
@@ -215,6 +217,7 @@ Happy Coding! 🚀
 | [0199-binary-tree-right-side-view](https://github.com/1-priyanshukumar/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0145-binary-tree-postorder-traversal](https://github.com/1-priyanshukumar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0101-symmetric-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0101-symmetric-tree) |
+| [0463-island-perimeter](https://github.com/1-priyanshukumar/leetcode/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
 | ------- |
@@ -249,6 +252,7 @@ Happy Coding! 🚀
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/1-priyanshukumar/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/1-priyanshukumar/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0101-symmetric-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0101-symmetric-tree) |
+| [0463-island-perimeter](https://github.com/1-priyanshukumar/leetcode/tree/master/0463-island-perimeter) |
 ## Monotonic Stack
 |  |
 | ------- |
