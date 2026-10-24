@@ -102,6 +102,7 @@ Happy Coding! 🚀
 | [0202-happy-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0202-happy-number) |
 | [0171-excel-sheet-column-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/1-priyanshukumar/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [2409-count-days-spent-together](https://github.com/1-priyanshukumar/leetcode/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0022-generate-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/1-priyanshukumar/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [2409-count-days-spent-together](https://github.com/1-priyanshukumar/leetcode/tree/master/2409-count-days-spent-together) |
 ## Backtracking
 |  |
 | ------- |
