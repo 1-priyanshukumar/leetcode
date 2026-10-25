@@ -86,6 +86,7 @@ Happy Coding! 🚀
 | [0463-island-perimeter](https://github.com/1-priyanshukumar/leetcode/tree/master/0463-island-perimeter) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/1-priyanshukumar/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [0733-flood-fill](https://github.com/1-priyanshukumar/leetcode/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/1-priyanshukumar/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Happy Coding! 🚀
 | [0037-sudoku-solver](https://github.com/1-priyanshukumar/leetcode/tree/master/0037-sudoku-solver) |
 | [0463-island-perimeter](https://github.com/1-priyanshukumar/leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/1-priyanshukumar/leetcode/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/1-priyanshukumar/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Recursion
 |  |
 | ------- |
@@ -225,6 +227,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0101-symmetric-tree) |
 | [0463-island-perimeter](https://github.com/1-priyanshukumar/leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/1-priyanshukumar/leetcode/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/1-priyanshukumar/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -261,6 +264,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/1-priyanshukumar/leetcode/tree/master/0101-symmetric-tree) |
 | [0463-island-perimeter](https://github.com/1-priyanshukumar/leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/1-priyanshukumar/leetcode/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/1-priyanshukumar/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -363,4 +367,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/1-priyanshukumar/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/1-priyanshukumar/leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
