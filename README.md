@@ -87,6 +87,7 @@ Happy Coding! 🚀
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/1-priyanshukumar/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [0733-flood-fill](https://github.com/1-priyanshukumar/leetcode/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/1-priyanshukumar/leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1-priyanshukumar/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Happy Coding! 🚀
 | [0463-island-perimeter](https://github.com/1-priyanshukumar/leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/1-priyanshukumar/leetcode/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/1-priyanshukumar/leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1-priyanshukumar/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
@@ -228,6 +230,7 @@ Happy Coding! 🚀
 | [0463-island-perimeter](https://github.com/1-priyanshukumar/leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/1-priyanshukumar/leetcode/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/1-priyanshukumar/leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1-priyanshukumar/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -265,6 +268,7 @@ Happy Coding! 🚀
 | [0463-island-perimeter](https://github.com/1-priyanshukumar/leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/1-priyanshukumar/leetcode/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/1-priyanshukumar/leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1-priyanshukumar/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -371,4 +375,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/1-priyanshukumar/leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1-priyanshukumar/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
