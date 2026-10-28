@@ -88,6 +88,7 @@ Happy Coding! 🚀
 | [0733-flood-fill](https://github.com/1-priyanshukumar/leetcode/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/1-priyanshukumar/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1-priyanshukumar/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/1-priyanshukumar/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Happy Coding! 🚀
 | [0120-triangle](https://github.com/1-priyanshukumar/leetcode/tree/master/0120-triangle) |
 | [0055-jump-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0055-jump-game) |
 | [0022-generate-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0022-generate-parentheses) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/1-priyanshukumar/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Minimax
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Happy Coding! 🚀
 | [0733-flood-fill](https://github.com/1-priyanshukumar/leetcode/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/1-priyanshukumar/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1-priyanshukumar/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/1-priyanshukumar/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -184,6 +187,7 @@ Happy Coding! 🚀
 | [1386-cinema-seat-allocation](https://github.com/1-priyanshukumar/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [0136-single-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0136-single-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/1-priyanshukumar/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/1-priyanshukumar/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
