@@ -89,6 +89,7 @@ Happy Coding! 🚀
 | [1254-number-of-closed-islands](https://github.com/1-priyanshukumar/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1-priyanshukumar/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/1-priyanshukumar/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/1-priyanshukumar/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Happy Coding! 🚀
 | [0171-excel-sheet-column-number](https://github.com/1-priyanshukumar/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/1-priyanshukumar/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [2409-count-days-spent-together](https://github.com/1-priyanshukumar/leetcode/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/1-priyanshukumar/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Happy Coding! 🚀
 | [0055-jump-game](https://github.com/1-priyanshukumar/leetcode/tree/master/0055-jump-game) |
 | [0022-generate-parentheses](https://github.com/1-priyanshukumar/leetcode/tree/master/0022-generate-parentheses) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/1-priyanshukumar/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/1-priyanshukumar/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Minimax
 |  |
 | ------- |
@@ -159,6 +162,7 @@ Happy Coding! 🚀
 | [0874-walking-robot-simulation](https://github.com/1-priyanshukumar/leetcode/tree/master/0874-walking-robot-simulation) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/1-priyanshukumar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/1-priyanshukumar/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
 | ------- |
@@ -327,10 +331,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/1-priyanshukumar/leetcode/tree/master/0239-sliding-window-maximum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/1-priyanshukumar/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/1-priyanshukumar/leetcode/tree/master/0239-sliding-window-maximum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/1-priyanshukumar/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Monotonic Queue
 |  |
 | ------- |
