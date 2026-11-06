@@ -90,6 +90,7 @@ Happy Coding! 🚀
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1-priyanshukumar/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/1-priyanshukumar/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/1-priyanshukumar/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [2747-count-zero-request-servers](https://github.com/1-priyanshukumar/leetcode/tree/master/2747-count-zero-request-servers) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Happy Coding! 🚀
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/1-priyanshukumar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/1-priyanshukumar/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/1-priyanshukumar/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [2747-count-zero-request-servers](https://github.com/1-priyanshukumar/leetcode/tree/master/2747-count-zero-request-servers) |
 ## String
 |  |
 | ------- |
@@ -315,6 +317,7 @@ Happy Coding! 🚀
 | ------- |
 | [0088-merge-sorted-array](https://github.com/1-priyanshukumar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/1-priyanshukumar/leetcode/tree/master/0561-array-partition) |
+| [2747-count-zero-request-servers](https://github.com/1-priyanshukumar/leetcode/tree/master/2747-count-zero-request-servers) |
 ## Geometry
 |  |
 | ------- |
@@ -332,6 +335,7 @@ Happy Coding! 🚀
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/1-priyanshukumar/leetcode/tree/master/0239-sliding-window-maximum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/1-priyanshukumar/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [2747-count-zero-request-servers](https://github.com/1-priyanshukumar/leetcode/tree/master/2747-count-zero-request-servers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
